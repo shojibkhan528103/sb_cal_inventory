@@ -1,0 +1,12 @@
+*{
+    box-sizing: content-box;
+    box-sizing: border-box;
+}
+
+.table th,td{
+    white-space: nowrap!important;
+}
+
+#showIncome,#showExpense{
+    display: none!important;
+}
